@@ -1,0 +1,16 @@
+D:\drepos\CursoWebDevYouTube\Pipeline\bin\Debug\net5.0\Pipeline.exe
+D:\drepos\CursoWebDevYouTube\Pipeline\bin\Debug\net5.0\Pipeline.deps.json
+D:\drepos\CursoWebDevYouTube\Pipeline\bin\Debug\net5.0\Pipeline.runtimeconfig.json
+D:\drepos\CursoWebDevYouTube\Pipeline\bin\Debug\net5.0\Pipeline.runtimeconfig.dev.json
+D:\drepos\CursoWebDevYouTube\Pipeline\bin\Debug\net5.0\Pipeline.dll
+D:\drepos\CursoWebDevYouTube\Pipeline\bin\Debug\net5.0\ref\Pipeline.dll
+D:\drepos\CursoWebDevYouTube\Pipeline\bin\Debug\net5.0\Pipeline.pdb
+D:\drepos\CursoWebDevYouTube\Pipeline\obj\Debug\net5.0\Pipeline.csproj.AssemblyReference.cache
+D:\drepos\CursoWebDevYouTube\Pipeline\obj\Debug\net5.0\Pipeline.GeneratedMSBuildEditorConfig.editorconfig
+D:\drepos\CursoWebDevYouTube\Pipeline\obj\Debug\net5.0\Pipeline.AssemblyInfoInputs.cache
+D:\drepos\CursoWebDevYouTube\Pipeline\obj\Debug\net5.0\Pipeline.AssemblyInfo.cs
+D:\drepos\CursoWebDevYouTube\Pipeline\obj\Debug\net5.0\Pipeline.csproj.CoreCompileInputs.cache
+D:\drepos\CursoWebDevYouTube\Pipeline\obj\Debug\net5.0\Pipeline.dll
+D:\drepos\CursoWebDevYouTube\Pipeline\obj\Debug\net5.0\ref\Pipeline.dll
+D:\drepos\CursoWebDevYouTube\Pipeline\obj\Debug\net5.0\Pipeline.pdb
+D:\drepos\CursoWebDevYouTube\Pipeline\obj\Debug\net5.0\Pipeline.genruntimeconfig.cache
