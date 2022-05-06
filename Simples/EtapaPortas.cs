@@ -6,7 +6,8 @@ namespace Pipeline.Simples
     {
         public StringBuilder Processar(StringBuilder entrada)
         {
-            entrada.Append("[PORTAS]");
+            entrada.Insert(0, "[PORTA]", 2);
+            entrada.Insert(entrada.Length, "[PORTA]", 2);
             return entrada;
         }
     }

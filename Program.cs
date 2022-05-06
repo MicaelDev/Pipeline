@@ -11,6 +11,11 @@ namespace Pipeline
             Console.WriteLine("Pipeline Simples para Montagem de Veículos");
             var montagemVeiculo = new Pipeline<StringBuilder>();
             montagemVeiculo.AdicionarEtapa(new EtapaChassi());
+            montagemVeiculo.AdicionarEtapa(new EtapaMotor());
+            montagemVeiculo.AdicionarEtapa(new EtapaBancos());
+            montagemVeiculo.AdicionarEtapa(new EtapaCarroceria());
+            montagemVeiculo.AdicionarEtapa(new EtapaPortas());
+            montagemVeiculo.AdicionarEtapa(new EtapaPintura());
 
             for (var i = 0; i < 10; i++)
             {
