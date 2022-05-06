@@ -9,7 +9,6 @@ namespace Pipeline.Duplo
         {
             entrada.Append("[CHASSI]");
             entrada = ProximaEtapa?.Processar(entrada) ?? entrada;
-            entrada = ProximaEtapa?.Processar(entrada) ?? entrada;
             return entrada;
         }
     }

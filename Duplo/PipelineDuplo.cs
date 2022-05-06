@@ -14,11 +14,12 @@ namespace Pipeline.Duplo
 
         public T Processar(T entrada)
         {
-            foreach (var etapa in etapas)
+            for (int i = 0; i < etapas.Count - 1; i++)
             {
-                entrada = etapa.Processar(entrada);
+                etapas[i].ProximaEtapa = etapas[i + 1];
             }
-            return entrada;
+
+            return etapas[0].Processar(entrada);
         }
 
     }
